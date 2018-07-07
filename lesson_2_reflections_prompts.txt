@@ -22,3 +22,7 @@ is temporary, let you check everything before completing the final action
 
 How can you use the staging area to make sure you have one commit per logical change?
 git add, git status
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+When you want to experiment, or try different versions at the same time. Also to protect the master branch
