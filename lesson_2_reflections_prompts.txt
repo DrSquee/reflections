@@ -29,3 +29,12 @@ When you want to experiment, or try different versions at the same time. Also to
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 Changes on both branches are included on the merged branch
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+bc there are times when you want your local repository to have testing files
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Fork: clone on github leaving track of the clone
+clone: clone to local from github or from another local
+branches: local copy of a repository for testing or creating changes
