@@ -41,3 +41,6 @@ branches: local copy of a repository for testing or creating changes
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 It's more likely that you won't have conflicts when pushing/merging changes. Also less changes will be push making things easier to track.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+it would be harder without using github, since it wouldn't be a common repository, everything would be local
