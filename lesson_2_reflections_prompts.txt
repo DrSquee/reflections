@@ -44,3 +44,6 @@ It's more likely that you won't have conflicts when pushing/merging changes. Als
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 it would be harder without using github, since it wouldn't be a common repository, everything would be local
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+When you are in a colaborative env or you want to test/experiment without breaking the working/master code
